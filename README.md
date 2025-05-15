@@ -65,6 +65,7 @@ endmodule
 ![11 2](https://github.com/user-attachments/assets/dae68655-9e6a-4819-bdaa-d82ca415a45e)
 
 **TRUTH TABLE**
+
 ![11 3](https://github.com/user-attachments/assets/2d0d90c3-8dbb-415b-ada8-e0f84d58c090)
 
 **RESULTS**
